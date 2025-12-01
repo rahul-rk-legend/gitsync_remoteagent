@@ -1,4 +1,4 @@
-# Playbook Folder 1 - Test 2
+# Playbook Folder 2 - Test 3
 
 
 
@@ -29,5 +29,7 @@
 |Step Name|Description|Integration|Original Action|
 |---------|-----------|-----------|---------------|
 |Siemplify_Add Entity Insight_1|Add an insight configurable message to each targeted entity|Siemplify|Add Entity Insight|
+|Siemplify_Get Case Details_1|This action will get all the data from a case and return a JSON result.  The result includes comments, entity information, insights, playbooks that ran, alert information and events.|Siemplify|Get Case Details|
+|SiemplifyUtilities_Count List_1|Count the number of items on a list - separated by a configurable delimiter.|SiemplifyUtilities|Count List|
 
 adding a readme add on

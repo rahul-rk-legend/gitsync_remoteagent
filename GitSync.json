@@ -11,7 +11,12 @@
             "Remote Agent Family 2": "adding a readme on",
             "Remote Agent Family 1": "adding a readme on"
         },
-        "Playbook": {},
+        "Playbook": {
+            "Playbook Folder 1 - Test 1": "adding a readme add on",
+            "Playbook Folder 1 - Test 2": "adding a readme add on",
+            "Playbook Folder 2 - Test 3": "adding a readme add on",
+            "Playbook Default 3": "adding a readme add on"
+        },
         "Connector": {},
         "Job": {
             "projects/project/locations/location/instances/instance/integrations/Splunk/jobs/43/jobInstances/11": "Adding a readme addon",
