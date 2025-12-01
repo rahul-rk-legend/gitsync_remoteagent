@@ -1,0 +1,23 @@
+[
+    {
+        "id": 3,
+        "name": "projects/project/locations/location/instances/instance/customLists/3",
+        "category": "IP Address",
+        "entityIdentifier": "Testing Custom List 3",
+        "environments": "[\"A\",\"Default Environment\"]"
+    },
+    {
+        "id": 2,
+        "name": "projects/project/locations/location/instances/instance/customLists/2",
+        "category": "Hostname",
+        "entityIdentifier": "Testing Custom List 2",
+        "environments": "[\"A\",\"C\"]"
+    },
+    {
+        "id": 1,
+        "name": "projects/project/locations/location/instances/instance/customLists/1",
+        "category": "Domain",
+        "entityIdentifier": "Testing Custom List 1",
+        "environments": "[\"*\"]"
+    }
+]
