@@ -1,7 +1,9 @@
 {
     "system_version": "6.3.67.0",
     "readme_addons": {
-        "Integration": {},
+        "Integration": {
+            "Gmail": "adding a readme addon"
+        },
         "Mappings": {},
         "Visual Family": {
             "Remote Agent Family 2": "adding a readme on",
