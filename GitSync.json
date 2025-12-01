@@ -3,7 +3,10 @@
     "readme_addons": {
         "Integration": {},
         "Mappings": {},
-        "Visual Family": {},
+        "Visual Family": {
+            "Remote Agent Family 2": "adding a readme on",
+            "Remote Agent Family 1": "adding a readme on"
+        },
         "Playbook": {},
         "Connector": {},
         "Job": {}

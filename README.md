@@ -34,6 +34,8 @@
 |Playground Family 1|Playground Family 1|
 |Playground Family 2|Playground Family 2|
 |Playground Family 3|Playground Family 3|
+|Remote Agent Family 1|Remote Agent Family 1|
+|Remote Agent Family 2|Remote Agent Family 2|
 
 
 ## Jobs
