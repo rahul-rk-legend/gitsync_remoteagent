@@ -1,0 +1,29 @@
+[
+    {
+        "id": 2,
+        "slaType": "CaseStage",
+        "slaTypeValue": "[\"Testing 2\",\"Testing 1\"]",
+        "slaPeriod": 5.0,
+        "slaPeriodTimeUnit": "Days",
+        "criticalSlaPeriod": 4.0,
+        "criticalSlaPeriodTimeUnit": "Hours",
+        "environments": [
+            "*"
+        ]
+    },
+    {
+        "id": 1,
+        "slaType": "AlertRuleGenerator",
+        "alertType": "AllAlerts",
+        "slaTypeValue": "",
+        "slaPeriod": 5.0,
+        "slaPeriodTimeUnit": "Minutes",
+        "criticalSlaPeriod": 4.0,
+        "criticalSlaPeriodTimeUnit": "Minutes",
+        "environments": [
+            "A",
+            "Default Environment",
+            "B"
+        ]
+    }
+]
