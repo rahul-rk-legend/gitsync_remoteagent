@@ -11,7 +11,10 @@
         },
         "Playbook": {},
         "Connector": {},
-        "Job": {}
+        "Job": {
+            "projects/project/locations/location/instances/instance/integrations/Splunk/jobs/43/jobInstances/11": "Adding a readme addon",
+            "projects/project/locations/location/instances/instance/integrations/SampleIntegration/jobs/41/jobInstances/6": "Adding a readme addon"
+        }
     },
     "settings": {
         "update_root_readme": true
