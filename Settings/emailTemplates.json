@@ -1,0 +1,20 @@
+[
+    {
+        "name": "projects/project/locations/location/instances/instance/emailTemplates/2",
+        "templateType": "Template",
+        "author": "397c1695-b131-4755-99dc-a2de22acf66f",
+        "id": 2,
+        "content": "Testing Email Template 2",
+        "displayName": "Testing Email Template 2",
+        "environments": "[\"*\"]"
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/emailTemplates/1",
+        "templateType": "Template",
+        "author": "397c1695-b131-4755-99dc-a2de22acf66f",
+        "id": 1,
+        "content": "Testing Email Template",
+        "displayName": "Testing Email Template",
+        "environments": "[\"A\",\"Default Environment\",\"C\"]"
+    }
+]
