@@ -4,7 +4,9 @@
         "Integration": {
             "Gmail": "adding a readme addon"
         },
-        "Mappings": {},
+        "Mappings": {
+            "Gmail": "adding a readme addon"
+        },
         "Visual Family": {
             "Remote Agent Family 2": "adding a readme on",
             "Remote Agent Family 1": "adding a readme on"
