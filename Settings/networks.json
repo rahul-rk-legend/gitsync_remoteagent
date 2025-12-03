@@ -1,5 +1,13 @@
 [
     {
+        "name": "projects/project/locations/location/instances/instance/internalNetworks/4",
+        "id": 4,
+        "displayName": "Testing Network 4",
+        "address": "192.168.1.1/8",
+        "environmentsJson": "[\"*\"]",
+        "priority": 2
+    },
+    {
         "name": "projects/project/locations/location/instances/instance/internalNetworks/3",
         "id": 3,
         "displayName": "Testing Network 3",
