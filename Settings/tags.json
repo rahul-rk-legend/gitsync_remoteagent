@@ -1,53 +1,54 @@
 [
     {
-        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/6",
-        "id": 6,
-        "displayName": "Currency",
-        "matchCriteria": "DataDriven",
-        "comparisonType": "Exact",
+        "value": "DLP_Product",
+        "name": "Exchange",
+        "propertyName": "",
         "priority": 1,
-        "canBeCaseTitle": false
+        "isPotentialCaseName": false,
+        "environments": [],
+        "type": 1,
+        "compareType": 2,
+        "id": 7,
+        "creationTimeUnixTimeInMs": 1764765600441,
+        "modificationTimeUnixTimeInMs": 1764765600441
     },
     {
-        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/5",
-        "id": 5,
-        "displayName": "Graph Mail",
-        "matchCriteria": "ByRuleGenerator",
         "value": "Access Disabled Accounts",
+        "name": "Graph Mail",
         "propertyName": "",
-        "comparisonType": "Contain",
         "priority": 1,
-        "canBeCaseTitle": false
+        "isPotentialCaseName": false,
+        "environments": [],
+        "type": 2,
+        "compareType": 2,
+        "id": 5,
+        "creationTimeUnixTimeInMs": 1764314855452,
+        "modificationTimeUnixTimeInMs": 1764314855452
     },
     {
-        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/4",
-        "id": 4,
-        "displayName": "Testing",
-        "matchCriteria": "ByVendor",
-        "value": "Testing",
-        "propertyName": "",
-        "comparisonType": "Contain",
-        "priority": 1,
-        "canBeCaseTitle": false
-    },
-    {
-        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/3",
-        "id": 3,
-        "displayName": "Sample",
-        "matchCriteria": "ByProduct",
         "value": "Windows:AccessDisabledAccounts",
+        "name": "Sample",
         "propertyName": "",
-        "comparisonType": "Contain",
         "priority": 1,
-        "canBeCaseTitle": false
+        "isPotentialCaseName": false,
+        "environments": [],
+        "type": 1,
+        "compareType": 2,
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1764314804790,
+        "modificationTimeUnixTimeInMs": 1764314804790
     },
     {
-        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/1",
-        "id": 1,
-        "displayName": "Simulated Case",
-        "matchCriteria": "System",
-        "comparisonType": "Exact",
+        "value": "Testing",
+        "name": "Testing",
+        "propertyName": "",
         "priority": 1,
-        "canBeCaseTitle": false
+        "isPotentialCaseName": false,
+        "environments": [],
+        "type": 0,
+        "compareType": 2,
+        "id": 4,
+        "creationTimeUnixTimeInMs": 1764314835032,
+        "modificationTimeUnixTimeInMs": 1764314835032
     }
 ]
