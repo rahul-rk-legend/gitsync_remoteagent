@@ -1,54 +1,75 @@
 [
     {
-        "value": "DLP_Product",
-        "name": "Exchange",
-        "propertyName": "",
-        "priority": 1,
-        "isPotentialCaseName": false,
-        "environments": [],
-        "type": 1,
-        "compareType": 2,
-        "id": 7,
-        "creationTimeUnixTimeInMs": 1764765600441,
-        "modificationTimeUnixTimeInMs": 1764765600441
-    },
-    {
-        "value": "Access Disabled Accounts",
-        "name": "Graph Mail",
-        "propertyName": "",
-        "priority": 1,
-        "isPotentialCaseName": false,
-        "environments": [],
-        "type": 2,
-        "compareType": 2,
-        "id": 5,
-        "creationTimeUnixTimeInMs": 1764314855452,
-        "modificationTimeUnixTimeInMs": 1764314855452
-    },
-    {
-        "value": "Windows:AccessDisabledAccounts",
-        "name": "Sample",
-        "propertyName": "",
-        "priority": 1,
-        "isPotentialCaseName": false,
-        "environments": [],
-        "type": 1,
-        "compareType": 2,
-        "id": 3,
-        "creationTimeUnixTimeInMs": 1764314804790,
-        "modificationTimeUnixTimeInMs": 1764314804790
-    },
-    {
+        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/8",
+        "id": 8,
+        "displayName": "Testing Remote 2",
+        "matchCriteria": "ByEntityPropertyName",
         "value": "Testing",
-        "name": "Testing",
-        "propertyName": "",
+        "propertyName": "Alert_Id",
+        "comparisonType": "Contain",
         "priority": 1,
-        "isPotentialCaseName": false,
-        "environments": [],
-        "type": 0,
-        "compareType": 2,
+        "canBeCaseTitle": false
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/7",
+        "id": 7,
+        "displayName": "Exchange",
+        "matchCriteria": "ByProduct",
+        "value": "DLP_Product",
+        "propertyName": "",
+        "comparisonType": "Contain",
+        "priority": 1,
+        "canBeCaseTitle": false
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/6",
+        "id": 6,
+        "displayName": "Currency",
+        "matchCriteria": "DataDriven",
+        "comparisonType": "Exact",
+        "priority": 1,
+        "canBeCaseTitle": false
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/5",
+        "id": 5,
+        "displayName": "Graph Mail",
+        "matchCriteria": "ByRuleGenerator",
+        "value": "Access Disabled Accounts",
+        "propertyName": "",
+        "comparisonType": "Contain",
+        "priority": 1,
+        "canBeCaseTitle": false
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/4",
         "id": 4,
-        "creationTimeUnixTimeInMs": 1764314835032,
-        "modificationTimeUnixTimeInMs": 1764314835032
+        "displayName": "Testing",
+        "matchCriteria": "ByVendor",
+        "value": "Testing",
+        "propertyName": "",
+        "comparisonType": "Contain",
+        "priority": 1,
+        "canBeCaseTitle": false
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/3",
+        "id": 3,
+        "displayName": "Sample",
+        "matchCriteria": "ByProduct",
+        "value": "Windows:AccessDisabledAccounts",
+        "propertyName": "",
+        "comparisonType": "Contain",
+        "priority": 1,
+        "canBeCaseTitle": false
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/1",
+        "id": 1,
+        "displayName": "Simulated Case",
+        "matchCriteria": "System",
+        "comparisonType": "Exact",
+        "priority": 1,
+        "canBeCaseTitle": false
     }
 ]
