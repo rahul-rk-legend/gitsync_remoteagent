@@ -1,0 +1,64 @@
+{
+    "cases": [
+        {
+            "creatorUserId": null,
+            "events": [
+                {
+                    "_fields": {
+                        "baseEventIds": [],
+                        "parentEventId": 0,
+                        "deviceEventClassId": "Testing Remote Agent Simu 4",
+                        "startTime": "1765801717949",
+                        "endTime": "1765801717949",
+                        "deviceProduct": "Testing Remote Agent Simu 4"
+                    },
+                    "_rawDataFields": {
+                        "testing Remote Agent Simu 4": "Testing Remote Agent Simu 4",
+                        "deviceEventClassId": "Testing Remote Agent Simu 4",
+                        "deviceProduct": "Testing Remote Agent Simu 4",
+                        "name": "Testing Remote Agent Simu 4"
+                    },
+                    "environment": null,
+                    "sourceSystemName": null,
+                    "extensions": []
+                }
+            ],
+            "environment": null,
+            "sourceSystemName": "Testing Remote Agent Simu 4",
+            "ticketId": null,
+            "description": null,
+            "displayId": null,
+            "reason": null,
+            "name": "Testing Remote Agent Simu 4",
+            "deviceVendor": "Testing Remote Agent Simu 4",
+            "deviceProduct": "Testing Remote Agent Simu 4",
+            "startTime": 1765801717949,
+            "endTime": 1765801717949,
+            "type": 0,
+            "priority": -1,
+            "ruleGenerator": "Testing Remote Agent Simu 4",
+            "sourceGroupingIdentifier": null,
+            "playbookTriggerKeywords": [],
+            "extensions": [
+                {
+                    "key": "Testing Remote Agent Simu 4",
+                    "value": "Testing Remote Agent Simu 4"
+                }
+            ],
+            "attachments": null,
+            "isTrimmed": false,
+            "dataType": 1,
+            "sourceType": 1,
+            "sourceSystemUrl": null,
+            "sourceRuleIdentifier": null,
+            "siemAlertId": null,
+            "updatedFields": [],
+            "alertUpdateSupported": false,
+            "alertMetadata": {},
+            "dataAccessScope": null
+        }
+    ],
+    "type": 0,
+    "connectorIdentifier": null,
+    "debugOutput": null
+}
